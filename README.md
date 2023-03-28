@@ -1,2 +1,2 @@
 # DiscordActiveDeveloperBadge
-Discord active developer badge generator.
+Discord active developer badge skeleton code.
